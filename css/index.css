@@ -1,0 +1,93 @@
+body {
+	text-align: center;
+}
+.afghanistan, .australia, .bahamas, .belarus,
+.bhutan, .burkina, .chile, .costa,
+.cyprus, .elsal, .finland, .germany,
+.haiti, .iraq, .italy, .jordan,
+.northkor, .libya, .northmkd, .mali,
+.mexico, .myanmar, .netherlands, .norway,
+.panama, .qatar, .sanmar, .serbia,
+.slovakia, .sweden, .taiwan, .togo,
+.turkey, .vatican, .yemen {
+	background-color: red;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	border: 1px solid black;
+}
+.albania, .angola, .bahrain, .belgium,
+.bolivia, .brazil, .china, .croatia,
+.czech, .easttim, .france, .greece,
+.honduras, .india, .jamaica, .kazakhstan,
+.southkor, .laos, .madagascar, .malta,
+.moldova, .montenegro, .newz, .oman,
+.papua, .philippines, .saotome, .seychelles,
+.slovenia, .spain, .tanzania, .trinidad,
+.ukraine, .usa, .total {
+	background-color: green;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	border: 1px solid black;
+}
+.algeria, .argentina, .austria, .benin,
+.bosnia, .brunei, .cambodia, .cuba,
+.denmark, .ecuador, .estonia, .guatemala,
+.hungary, .indonesia, .ireland, .kenya,
+.kuwait, .latvia, .lithuania, .mauritania,
+.monaco, .morocco, .namibia, .pakistan,
+.paraguay, .poland, .romania, .singapore,
+.somalia, .srilan, .switzerland, .tunisia,
+.uae, .uruguay, .venezuela {
+	background-color: blue;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	border: 1px solid black;
+}
+.andorra, .armenia, .azerbaijan, .bangladesh,
+.botswana, .bulgaria, .canada, .colombia,
+.dominican, .egypt, .fiji, .georgia,
+.iceland, .iran, .israel, .japan,
+.kyrgyzstan, .lebanon, .luxembourg, .malaysia,
+.mongolia, .mozambique, .nepal, .nicaragua,
+.peru, .portugal, .russia, .saudi,
+.southafr, .sudan, .syria, .thailand,
+.uk, .uzbekistan, .vietnam {
+	background-color: black;
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	border: 1px solid black;
+}
+.companylist {
+	background-color: rgba(0, 128, 255, 1);
+	color: white;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	font-size: 30px;
+	border: 1px solid black;
+}
+a {
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
