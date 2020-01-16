@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2020. Jan 13. 09:42
+-- Létrehozás ideje: 2020. Jan 16. 08:47
 -- Kiszolgáló verziója: 10.4.10-MariaDB
 -- PHP verzió: 7.3.12
 
@@ -3200,7 +3200,7 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (2750, 'https://vignette.wikia.nocookie.net/logopedia/images/2/25/India_Today_TV.jpg/revision/latest?cb=20171130151520', 'India Today Television', 'News', 'India'),
 (2751, 'https://vignette.wikia.nocookie.net/logopedia/images/1/10/India_TV_Orange.jpg/revision/latest?cb=20180603162406', 'India TV', 'News', 'India'),
 (2752, 'https://vignette.wikia.nocookie.net/logopedia/images/2/26/Jalsha_movies.jpg/revision/latest?cb=20160524181034', 'Jalsha Movies', 'Entertainment', 'India'),
-(2753, 'https://vignette.wikia.nocookie.net/logopedia/images/5/5e/Discovery_Jeet.jpg/revision/latest?cb=20180212172822', 'Jeet Prime', 'Documentary', 'India'),
+(2753, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f6/ID_2017.png/revision/latest/scale-to-width-down/200?cb=20171210082627', 'Investigation Discovery', 'Documentary', 'India'),
 (2754, 'https://vignette.wikia.nocookie.net/logopedia/images/5/57/K_TV.jpg/revision/latest?cb=20181104100739', 'K TV', 'Entertainment', 'India'),
 (2755, 'https://vignette.wikia.nocookie.net/logopedia/images/4/40/We.jpg/revision/latest?cb=20160903184130', 'Kairali We', 'Private', 'India'),
 (2756, 'https://vignette.wikia.nocookie.net/logopedia/images/8/89/Kappa_TV.png/revision/latest?cb=20181211100632', 'Kappa TV', 'Music', 'India'),
@@ -3252,9 +3252,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (2802, 'https://vignette.wikia.nocookie.net/logopedia/images/7/78/Romedy_Now_2019_Black.jpg/revision/latest?cb=20190901090453', 'Romedy Now', 'Entertainment', 'India'),
 (2803, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest?cb=20180603181710', 'RT', 'News', 'India'),
 (2804, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Sahara_Samay_National.png/revision/latest?cb=20111007145118', 'Sahara Samay', 'Private', 'India'),
-(2805, 'https://vignette.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg/revision/latest?cb=20171213115114', 'Sakshi TV', 'News', 'India'),
-(2806, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Shop_CJ.jpg/revision/latest?cb=20171207195004', 'Shop CJ', 'Informations', 'India');
+(2805, 'https://vignette.wikia.nocookie.net/logopedia/images/5/52/Sakshi.jpg/revision/latest?cb=20171213115114', 'Sakshi TV', 'News', 'India');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(2806, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d9/Shop_CJ.jpg/revision/latest?cb=20171207195004', 'Shop CJ', 'Informations', 'India'),
 (2807, 'https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sonic_Nickelodeon.jpg/revision/latest?cb=20180531125430', 'Sonic Nickelodeon', 'Children', 'India'),
 (2808, 'https://vignette.wikia.nocookie.net/logopedia/images/2/2c/Sony_Aath_2011.png/revision/latest?cb=20110927162211', 'Sony Aath', 'Regional', 'India'),
 (2809, 'https://vignette.wikia.nocookie.net/logopedia/images/3/31/Sony_BBC_Earth.jpg/revision/latest?cb=20190224052420', 'Sony BBC Earth', 'Documentary', 'India'),
@@ -3568,9 +3568,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (3117, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Super_Soccer_TV.png/revision/latest?cb=20181111072911', 'SuperSoccer TV', 'Sport', 'Indonesia'),
 (3118, 'https://vignette.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png/revision/latest?cb=20180922124010', 'Surau TV', 'Religion', 'Indonesia'),
 (3119, 'https://vignette.wikia.nocookie.net/logopedia/images/3/35/T_musik.png/revision/latest?cb=20190206164012', 'T-Music', 'Music', 'Indonesia'),
-(3120, 'https://vignette.wikia.nocookie.net/logopedia/images/0/07/Tahan_tawa.png/revision/latest?cb=20190531161321', 'Tahan Tawa', 'Entertainment', 'Indonesia'),
-(3121, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a8/Tahfizh_TV_2018.png/revision/latest?cb=20180923133224', 'Tahfizh TV', 'Religion', 'Indonesia');
+(3120, 'https://vignette.wikia.nocookie.net/logopedia/images/0/07/Tahan_tawa.png/revision/latest?cb=20190531161321', 'Tahan Tawa', 'Entertainment', 'Indonesia');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(3121, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a8/Tahfizh_TV_2018.png/revision/latest?cb=20180923133224', 'Tahfizh TV', 'Religion', 'Indonesia'),
 (3122, 'https://vignette.wikia.nocookie.net/logopedia/images/7/7c/Tarakan_TV_%282012%29.jpg/revision/latest?cb=20181129130427', 'Tarakan TV', 'Regional', 'Indonesia'),
 (3123, 'https://vignette.wikia.nocookie.net/logopedia/images/2/2d/Bild.jpg/revision/latest?cb=20140809100124', 'TempoTV', 'Entertainment', 'Indonesia'),
 (3124, 'https://vignette.wikia.nocookie.net/logopedia/images/8/89/The_First_Comedy_Network.svg/revision/latest?cb=20190206115301', 'The First Comedy Network', 'Entertainment', 'Indonesia'),
@@ -3883,9 +3883,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (3431, 'https://vignette.wikia.nocookie.net/logopedia/images/1/12/Chukyo_TV_2016.png/revision/latest?cb=20190119083052', 'Chūkyō Television Broadcasting', 'Regional', 'Japan'),
 (3432, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a0/Cineglob13.jpg/revision/latest?cb=20130908222718', 'Cinema One Global', 'Entertainment', 'Japan'),
 (3433, 'https://vignette.wikia.nocookie.net/logopedia/images/8/87/Disney_Channel_2014.png/revision/latest?cb=20140522224840', 'Disney Channel', 'Children', 'Japan'),
-(3434, 'https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Disney_Time.png/revision/latest?cb=20150121011740', 'Disney Time', 'Children', 'Japan'),
-(3435, 'https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20180903211953', 'Disney XD', 'Children', 'Japan');
+(3434, 'https://vignette.wikia.nocookie.net/logopedia/images/a/ad/Disney_Time.png/revision/latest?cb=20150121011740', 'Disney Time', 'Children', 'Japan');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(3435, 'https://vignette.wikia.nocookie.net/logopedia/images/1/13/Logo_disney_xd.svg/revision/latest?cb=20180903211953', 'Disney XD', 'Children', 'Japan'),
 (3436, 'https://vignette.wikia.nocookie.net/logopedia/images/c/c3/DLife.PNG/revision/latest?cb=20150121012216', 'DLife', 'Documentary', 'Japan'),
 (3437, 'https://vignette.wikia.nocookie.net/logopedia/images/b/b0/TV_Asahi_2004-present.png/revision/latest?cb=20150726052941', 'Ehime Asahi Television', 'Regional', 'Japan'),
 (3438, 'https://vignette.wikia.nocookie.net/logopedia/images/1/11/EBC_2014.png/revision/latest?cb=20190130124800', 'Ehime Broadcasting', 'Regional', 'Japan'),
@@ -4188,9 +4188,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (3735, 'https://vignette.wikia.nocookie.net/logopedia/images/8/82/TVPlay_Sports.svg/revision/latest?cb=20181221153049', 'TV Play Sports', 'Sport', 'Lithuania'),
 (3736, 'https://vignette.wikia.nocookie.net/logopedia/images/7/75/TV_XXI_2.png/revision/latest?cb=20160620151248', 'TV XXI', 'Entertainment', 'Lithuania'),
 (3737, 'https://vignette.wikia.nocookie.net/logopedia/images/e/ef/TV1_HD.png/revision/latest?cb=20190606124251', 'TV1', 'Private', 'Lithuania'),
-(3738, 'https://vignette.wikia.nocookie.net/logopedia/images/7/7d/TV1000_4.png/revision/latest?cb=20171222081024', 'TV1000', 'Entertainment', 'Lithuania'),
-(3739, 'https://vignette.wikia.nocookie.net/logopedia/images/1/15/TV1000_Action_3.png/revision/latest?cb=20171222072206', 'TV1000 Action', 'Entertainment', 'Lithuania');
+(3738, 'https://vignette.wikia.nocookie.net/logopedia/images/7/7d/TV1000_4.png/revision/latest?cb=20171222081024', 'TV1000', 'Entertainment', 'Lithuania');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(3739, 'https://vignette.wikia.nocookie.net/logopedia/images/1/15/TV1000_Action_3.png/revision/latest?cb=20171222072206', 'TV1000 Action', 'Entertainment', 'Lithuania'),
 (3740, 'https://vignette.wikia.nocookie.net/logopedia/images/e/eb/TV1000_Full_Color.png/revision/latest?cb=20190104085530', 'TV1000 Premium', 'Entertainment', 'Lithuania'),
 (3741, 'https://vignette.wikia.nocookie.net/logopedia/images/4/43/TV1000_3.png/revision/latest?cb=20171222074142', 'TV1000 Russkoe Kino', 'Entertainment', 'Lithuania'),
 (3742, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d8/TV3_Group_Logo.svg/revision/latest/scale-to-width-down/200?cb=20191211162139', 'TV3', 'Private', 'Lithuania'),
@@ -4496,9 +4496,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (4042, 'https://vignette.wikia.nocookie.net/logopedia/images/3/37/C%26I_logo.svg/revision/latest?cb=20190613183256', 'Crime & Investigation', 'Documentary', 'Netherlands'),
 (4043, 'https://vignette.wikia.nocookie.net/logopedia/images/3/35/Discovery_Science_2017.svg/revision/latest?cb=20180320174928', 'Discovery Science', 'Documentary', 'Netherlands'),
 (4044, 'https://vignette.wikia.nocookie.net/logopedia/images/c/c8/Eurosport_1.svg/revision/latest?cb=20171222151126', 'Eurosport 1', 'Sport', 'Netherlands'),
-(4045, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest?cb=20171209134527', 'Eurosport 2', 'Sport', 'Netherlands'),
-(4046, 'https://vignette.wikia.nocookie.net/logopedia/images/0/07/Family7_logo.svg/revision/latest?cb=20100523154810', 'Family 7', 'Religion', 'Netherlands');
+(4045, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0d/Eurosport_2_%282015%29.svg/revision/latest?cb=20171209134527', 'Eurosport 2', 'Sport', 'Netherlands');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(4046, 'https://vignette.wikia.nocookie.net/logopedia/images/0/07/Family7_logo.svg/revision/latest?cb=20100523154810', 'Family 7', 'Religion', 'Netherlands'),
 (4047, 'https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest?cb=20111009231547', 'Fashion TV', 'Entertainment', 'Netherlands'),
 (4048, 'https://vignette.wikia.nocookie.net/logopedia/images/2/26/Fine_Living_%282016%29.svg/revision/latest?cb=20171222085900', 'Fine Living', 'Documentary', 'Netherlands'),
 (4049, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a3/FOX_International.svg/revision/latest?cb=20170519104225', 'Fox', 'Entertainment', 'Netherlands'),
@@ -4808,9 +4808,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (4353, 'https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest?cb=20160413213908', 'Fox Sports 2', 'Sport', 'Paraguay'),
 (4354, 'https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Fox_Sports_3.png/revision/latest?cb=20160412195331', 'Fox Sports 3', 'Sport', 'Paraguay'),
 (4355, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f1/FXLA.png/revision/latest?cb=20180725123411', 'FX', 'Entertainment', 'Paraguay'),
-(4356, 'https://vignette.wikia.nocookie.net/logopedia/images/e/ea/FXM.svg/revision/latest?cb=20161008111035', 'FXM', 'Entertainment', 'Paraguay'),
-(4357, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest?cb=20160817080029', 'Glitz', 'Entertainment', 'Paraguay');
+(4356, 'https://vignette.wikia.nocookie.net/logopedia/images/e/ea/FXM.svg/revision/latest?cb=20161008111035', 'FXM', 'Entertainment', 'Paraguay');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(4357, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Glitz_2011.svg/revision/latest?cb=20160817080029', 'Glitz', 'Entertainment', 'Paraguay'),
 (4358, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d5/History_%282015%29.svg/revision/latest?cb=20180119222457', 'History', 'Documentary', 'Paraguay'),
 (4359, 'https://vignette.wikia.nocookie.net/logopedia/images/5/59/H2_logo_2019.png/revision/latest?cb=20190207234921', 'History 2', 'Documentary', 'Paraguay'),
 (4360, 'https://vignette.wikia.nocookie.net/logopedia/images/6/60/HTV_2009.svg/revision/latest?cb=20151205150744', 'HTV', 'Music', 'Paraguay'),
@@ -5116,9 +5116,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (4660, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f7/Zee_Sine.jpg/revision/latest?cb=20171105140249', 'Zee Sine', 'Private', 'Philippines'),
 (4661, 'https://vignette.wikia.nocookie.net/logopedia/images/1/10/ZooMoo_logo.svg.png/revision/latest?cb=20171225070513', 'ZooMoo', 'Children', 'Philippines'),
 (4662, 'https://vignette.wikia.nocookie.net/logopedia/images/9/94/13_Ulica.svg/revision/latest?cb=20171113163319', '13 Ulica', 'Entertainment', 'Poland'),
-(4663, 'https://vignette.wikia.nocookie.net/logopedia/images/5/52/2x2_Poland_2016.png/revision/latest?cb=20170817171037', '2x2', 'Private', 'Poland'),
-(4664, 'https://vignette.wikia.nocookie.net/logopedia/images/b/bb/4Fun_Dance_2017.svg/revision/latest?cb=20171024165328', '4fun Dance', 'Music', 'Poland');
+(4663, 'https://vignette.wikia.nocookie.net/logopedia/images/5/52/2x2_Poland_2016.png/revision/latest?cb=20170817171037', '2x2', 'Private', 'Poland');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(4664, 'https://vignette.wikia.nocookie.net/logopedia/images/b/bb/4Fun_Dance_2017.svg/revision/latest?cb=20171024165328', '4fun Dance', 'Music', 'Poland'),
 (4665, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0d/4fun_Gold.png/revision/latest?cb=20180111164340', '4fun Gold', 'Music', 'Poland'),
 (4666, 'https://vignette.wikia.nocookie.net/logopedia/images/7/7f/4fun.tv_2015.svg/revision/latest?cb=20170608194637', '4fun.tv', 'Music', 'Poland'),
 (4667, 'https://vignette.wikia.nocookie.net/logopedia/images/7/71/AdventureTV_logo_big.jpg/revision/latest?cb=20180626102302', 'Adventure TV', 'Documentary', 'Poland'),
@@ -5428,9 +5428,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (4971, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f5/JeemTV_logo_2013.png/revision/latest?cb=20130508131801', 'JeemTV', 'Children', 'Qatar'),
 (4972, 'https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Quest_Arabiya.svg/revision/latest?cb=20180717065958', 'Quest Arabiya', 'Documentary', 'Qatar'),
 (4973, 'https://vignette.wikia.nocookie.net/logopedia/images/8/8f/Sigla-agro-tv_tb250.jpg/revision/latest?cb=20180830203855', 'Agro TV', 'Agriculture', 'Romania'),
-(4974, 'https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKTA_Info.png/revision/latest?cb=20190506190603', 'Akta Info', 'News', 'Romania'),
-(4975, 'https://vignette.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest?cb=20190713011740', 'AMC', 'Entertainment', 'Romania');
+(4974, 'https://vignette.wikia.nocookie.net/logopedia/images/c/cb/AKTA_Info.png/revision/latest?cb=20190506190603', 'Akta Info', 'News', 'Romania');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(4975, 'https://vignette.wikia.nocookie.net/logopedia/images/4/45/AMC_%282019%29.svg/revision/latest?cb=20190713011740', 'AMC', 'Entertainment', 'Romania'),
 (4976, 'https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest?cb=20181016205525', 'Animal Planet', 'Documentary', 'Romania'),
 (4977, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Ant1romania.svg/revision/latest?cb=20170212115014', 'Antena 1', 'Private', 'Romania'),
 (4978, 'https://vignette.wikia.nocookie.net/logopedia/images/3/3e/11952022_10153167520262775_3766603085610754682_n.png/revision/latest?cb=20150831195423', 'Antena 3', 'News', 'Romania'),
@@ -5728,9 +5728,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (5270, 'https://vignette.wikia.nocookie.net/logopedia/images/8/8d/TV3_logo_2015.svg/revision/latest?cb=20170101123022', 'TV3', 'Private', 'Russia'),
 (5271, 'https://vignette.wikia.nocookie.net/logopedia/images/b/b3/%D0%A3%D1%81%D0%B0%D0%B4%D1%8C%D0%B1%D0%B0_%282018%29.png/revision/latest?cb=20190509155140', 'Usadba', 'Private', 'Russia'),
 (5272, 'https://vignette.wikia.nocookie.net/logopedia/images/7/79/%D0%92_%D0%9C%D0%B8%D1%80%D0%B5_%D0%96%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D1%85_%282018%29.svg/revision/latest?cb=20181020124142', 'V mire zhivotnykh', 'Documentary', 'Russia'),
-(5273, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Viasat_Explore.svg/revision/latest?cb=20140718113331', 'Viasat Explore', 'Documentary', 'Russia'),
-(5274, 'https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20161214183621', 'Viasat History', 'Documentary', 'Russia');
+(5273, 'https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Viasat_Explore.svg/revision/latest?cb=20140718113331', 'Viasat Explore', 'Documentary', 'Russia');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(5274, 'https://vignette.wikia.nocookie.net/logopedia/images/6/6f/Viasat_History.png/revision/latest?cb=20161214183621', 'Viasat History', 'Documentary', 'Russia'),
 (5275, 'https://vignette.wikia.nocookie.net/logopedia/images/5/51/Viasat_Nature_2014.png/revision/latest?cb=20140512144610', 'Viasat Nature', 'Documentary', 'Russia'),
 (5276, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a8/ViP_Comedy.svg/revision/latest?cb=20190501154739', 'ViP Comedy', 'Entertainment', 'Russia'),
 (5277, 'https://vignette.wikia.nocookie.net/logopedia/images/6/6c/ViP_Megahit.svg/revision/latest?cb=20190501154437', 'VIP Megahit', 'Entertainment', 'Russia'),
@@ -6038,9 +6038,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (5579, 'https://vignette.wikia.nocookie.net/logopedia/images/1/19/ElTreceInternacional2017.png/revision/latest?cb=20171001002322', 'El Trece International', 'Private', 'Spain'),
 (5580, 'https://vignette.wikia.nocookie.net/logopedia/images/9/93/Energy_2012.png/revision/latest?cb=20121223005520', 'Energy', 'Private', 'Spain'),
 (5581, 'https://vignette.wikia.nocookie.net/logopedia/images/7/79/Esport3_logo_2011.svg/revision/latest?cb=20110718203200', 'Esport3', 'Sport', 'Spain'),
-(5582, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/ETB1_2017_Spain.svg/revision/latest?cb=20171004033459', 'ETB 1', 'Regional', 'Spain'),
-(5583, 'https://vignette.wikia.nocookie.net/logopedia/images/0/09/ETB2_2017_Spain.svg/revision/latest?cb=20171004034001', 'ETB 2', 'Regional', 'Spain');
+(5582, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/ETB1_2017_Spain.svg/revision/latest?cb=20171004033459', 'ETB 1', 'Regional', 'Spain');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(5583, 'https://vignette.wikia.nocookie.net/logopedia/images/0/09/ETB2_2017_Spain.svg/revision/latest?cb=20171004034001', 'ETB 2', 'Regional', 'Spain'),
 (5584, 'https://vignette.wikia.nocookie.net/logopedia/images/8/81/ETB3_Spain.svg/revision/latest?cb=20181009024652', 'ETB 3', 'Regional', 'Spain'),
 (5585, 'https://vignette.wikia.nocookie.net/logopedia/images/1/19/ETB4_Spain.svg/revision/latest?cb=20181009025308', 'ETB 4', 'Regional', 'Spain'),
 (5586, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/Canal_Vasco_logo_2009.png/revision/latest?cb=20110830194115', 'Canal Vasco', 'Regional', 'Spain'),
@@ -6351,9 +6351,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (5891, 'https://vignette.wikia.nocookie.net/logopedia/images/2/2d/1200px-Logo_T%C3%A9l%C3%A9vision_tunisienne_1%2C_2017.svg.png/revision/latest?cb=20190313231459', 'Télévision Tunisienne 1', 'Public', 'Tunisia'),
 (5892, 'https://vignette.wikia.nocookie.net/logopedia/images/f/fc/24Kitchen.svg/revision/latest?cb=20171119143407', '24Kitchen', 'Documentary', 'Turkey'),
 (5893, 'https://vignette.wikia.nocookie.net/logopedia/images/8/8e/Al_Jazeera_Turk.png/revision/latest?cb=20141231214904', 'Al Jazeera Türk', 'News', 'Turkey'),
-(5894, 'https://vignette.wikia.nocookie.net/logopedia/images/6/67/Atv_logosu-0.png/revision/latest?cb=20170823201131', 'ATV', 'Private', 'Turkey'),
-(5895, 'https://vignette.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest?cb=20150323131938', 'BBC Earth', 'Documentary', 'Turkey');
+(5894, 'https://vignette.wikia.nocookie.net/logopedia/images/6/67/Atv_logosu-0.png/revision/latest?cb=20170823201131', 'ATV', 'Private', 'Turkey');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(5895, 'https://vignette.wikia.nocookie.net/logopedia/images/3/3f/BBC_Earth.svg/revision/latest?cb=20150323131938', 'BBC Earth', 'Documentary', 'Turkey'),
 (5896, 'https://vignette.wikia.nocookie.net/logopedia/images/a/a4/BBC_HD.svg/revision/latest?cb=20091108134536', 'BBC HD', 'Public', 'Turkey'),
 (5897, 'https://vignette.wikia.nocookie.net/logopedia/images/8/89/BBC_Turkce.png/revision/latest?cb=20170114211452', 'BBC Turkey', 'Public', 'Turkey'),
 (5898, 'https://vignette.wikia.nocookie.net/logopedia/images/4/49/Boomerang_2015.svg/revision/latest?cb=20190430185347', 'Boomerang', 'Children', 'Turkey'),
@@ -6650,9 +6650,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (6189, 'https://vignette.wikia.nocookie.net/logopedia/images/1/14/Sky_Cinema_Family_-_Logo_2018.svg/revision/latest?cb=20190307160312', 'Sky Cinema Family', 'Entertainment', 'United Kingdom'),
 (6190, 'https://vignette.wikia.nocookie.net/logopedia/images/f/fe/Sky_Cinema_Greats_2017.svg/revision/latest?cb=20180807123257', 'Sky Cinema Greats', 'Entertainment', 'United Kingdom'),
 (6191, 'https://vignette.wikia.nocookie.net/logopedia/images/3/3a/Sky_Cinema_Hits_-_Logo_2018.svg/revision/latest?cb=20180729125224', 'Sky Cinema Hits', 'Entertainment', 'United Kingdom'),
-(6192, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Sky_Cinema_Premiere_2017.svg/revision/latest?cb=20180807231106', 'Sky Cinema Premiere', 'Entertainment', 'United Kingdom'),
-(6193, 'https://vignette.wikia.nocookie.net/logopedia/images/9/98/Sky_Cinema_Sci_Fi_%26_Horror_2017.svg/revision/latest?cb=20180807222447', 'Sky Cinema Sci-Fi & Horror', 'Entertainment', 'United Kingdom');
+(6192, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d6/Sky_Cinema_Premiere_2017.svg/revision/latest?cb=20180807231106', 'Sky Cinema Premiere', 'Entertainment', 'United Kingdom');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(6193, 'https://vignette.wikia.nocookie.net/logopedia/images/9/98/Sky_Cinema_Sci_Fi_%26_Horror_2017.svg/revision/latest?cb=20180807222447', 'Sky Cinema Sci-Fi & Horror', 'Entertainment', 'United Kingdom'),
 (6194, 'https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sky_Cinema_Select_2017.svg/revision/latest?cb=20180807220610', 'Sky Cinema Select', 'Entertainment', 'United Kingdom'),
 (6195, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Sky_Cinema_Thriller_2017.svg/revision/latest?cb=20180807225210', 'Sky Cinema Thriller', 'Entertainment', 'United Kingdom'),
 (6196, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f5/Sky_News_2018.svg/revision/latest?cb=20180117110117', 'Sky News', 'News', 'United Kingdom'),
@@ -6935,9 +6935,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (6473, 'https://vignette.wikia.nocookie.net/logopedia/images/3/30/PixL.png/revision/latest?cb=20110408054703', 'PixL', 'Entertainment', 'United States of America'),
 (6474, 'https://vignette.wikia.nocookie.net/logopedia/images/3/37/Playboy_TV_Logo.svg/revision/latest?cb=20130325074908', 'Playboy TV', 'Adult', 'United States of America'),
 (6475, 'https://vignette.wikia.nocookie.net/logopedia/images/e/e6/Pop.svg/revision/latest?cb=20171005135852', 'Pop', 'Documentary', 'United States of America'),
-(6476, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Pursuit-Tag-Line_no_ppl.png/revision/latest?cb=20181205162145', 'Pursuit Channel', 'Sport', 'United States of America'),
-(6477, 'https://vignette.wikia.nocookie.net/logopedia/images/5/50/Qubo_logo_2012.png/revision/latest?cb=20150915211649', 'Qubo', 'Children', 'United States of America');
+(6476, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d0/Pursuit-Tag-Line_no_ppl.png/revision/latest?cb=20181205162145', 'Pursuit Channel', 'Sport', 'United States of America');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(6477, 'https://vignette.wikia.nocookie.net/logopedia/images/5/50/Qubo_logo_2012.png/revision/latest?cb=20150915211649', 'Qubo', 'Children', 'United States of America'),
 (6478, 'https://vignette.wikia.nocookie.net/logopedia/images/8/8a/QuboChannel2010-2012-presentLogo.png/revision/latest?cb=20160216040938', 'Qubo Channel', 'Children', 'United States of America'),
 (6479, 'https://vignette.wikia.nocookie.net/logopedia/images/d/d1/QuestLogo.png/revision/latest?cb=20180212202829', 'Quest', 'Documentary', 'United States of America'),
 (6480, 'https://vignette.wikia.nocookie.net/logopedia/images/0/04/QVC_2019.svg/revision/latest?cb=20190206123853', 'QVC', 'Informations', 'United States of America'),
@@ -7234,9 +7234,9 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (6771, 'https://vignette.wikia.nocookie.net/logopedia/images/c/ca/%28Approved%29_FB_-_Avatar_new_logo_GTTV.jpg/revision/latest?cb=20180305024456', 'VTVCab1 - Giải Trí TV', 'Documentary', 'Vietnam'),
 (6772, 'https://vignette.wikia.nocookie.net/logopedia/images/8/82/Life_TV_logo_VTVC22.png/revision/latest?cb=20170627043242', 'VTVCab22 - LIFETV', 'Documentary', 'Vietnam'),
 (6773, 'https://vignette.wikia.nocookie.net/logopedia/images/c/c8/TTTV_GOLF_HD.png/revision/latest?cb=20171222053622', 'VTVCab23 - Thể Thao TV HD Golf', 'Sport', 'Vietnam'),
-(6774, 'https://vignette.wikia.nocookie.net/logopedia/images/3/36/102_1.png/revision/latest?cb=20180111021833', 'VTVCab8 - BiBi', 'Children', 'Vietnam'),
-(6775, 'https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Zee_Phim.png/revision/latest?cb=20190315142248', 'Zee Phim', 'Private', 'Vietnam');
+(6774, 'https://vignette.wikia.nocookie.net/logopedia/images/3/36/102_1.png/revision/latest?cb=20180111021833', 'VTVCab8 - BiBi', 'Children', 'Vietnam');
 INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
+(6775, 'https://vignette.wikia.nocookie.net/logopedia/images/4/4a/Zee_Phim.png/revision/latest?cb=20190315142248', 'Zee Phim', 'Private', 'Vietnam'),
 (6776, 'https://vignette.wikia.nocookie.net/logopedia/images/c/cd/Quest_Arabiya.svg/revision/latest?cb=20180717065958', 'Quest Arabiya', 'Documentary', 'Yemen'),
 (6777, 'https://vignette.wikia.nocookie.net/logopedia/images/4/46/YEMEN_TV.jpg/revision/latest?cb=20150317085231', 'Yemen TV', 'Public', 'Yemen');
 
@@ -7270,7 +7270,7 @@ ALTER TABLE `companytable`
 -- AUTO_INCREMENT a táblához `tvtable`
 --
 ALTER TABLE `tvtable`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15777;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15778;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
