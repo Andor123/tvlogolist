@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Gép: 127.0.0.1
--- Létrehozás ideje: 2020. Jan 21. 10:04
+-- Létrehozás ideje: 2020. Jan 22. 09:43
 -- Kiszolgáló verziója: 10.4.10-MariaDB
 -- PHP verzió: 7.3.12
 
@@ -1843,7 +1843,7 @@ INSERT INTO `tvtable` (`id`, `image`, `name`, `genre`, `country`) VALUES
 (1397, 'https://vignette.wikia.nocookie.net/logopedia/images/0/01/Sony_Channel.jpg/revision/latest?cb=20190807234745', 'Sony Channel', 'Entertainment', 'Colombia'),
 (1398, 'https://vignette.wikia.nocookie.net/logopedia/images/e/ed/Canal-trece-colombia.svg/revision/latest?cb=20180903040956', 'Canal Trece', 'Regional', 'Colombia'),
 (1399, 'https://vignette.wikia.nocookie.net/logopedia/images/6/6b/CanalTr3ce2.png/revision/latest?cb=20180114183733', 'Canal Trece 2', 'Regional', 'Colombia'),
-(1400, 'https://vignette.wikia.nocookie.net/logopedia/images/f/f9/Canal_tro_2016.PNG/revision/latest?cb=20170309125806', 'Canal TRO', 'Regional', 'Colombia'),
+(1400, 'https://vignette.wikia.nocookie.net/logopedia/images/5/51/CanalTRO2020.png/revision/latest/scale-to-width-down/278?cb=20200121163035', 'Canal TRO', 'Regional', 'Colombia'),
 (1401, 'https://vignette.wikia.nocookie.net/logopedia/images/e/ed/LOGOTIPO_CANALU_.png/revision/latest?cb=20180122184512', 'Canal U', 'Regional', 'Colombia'),
 (1402, 'https://vignette.wikia.nocookie.net/logopedia/images/6/6c/CanalZoom2018.png/revision/latest?cb=20181109223219', 'Canal Zone', 'Private', 'Colombia'),
 (1403, 'https://vignette.wikia.nocookie.net/logopedia/images/5/53/CaracolTV2017.png/revision/latest?cb=20180725121650', 'Caracol Televisión', 'Private', 'Colombia'),
@@ -7274,7 +7274,7 @@ ALTER TABLE `companytable`
 -- AUTO_INCREMENT a táblához `tvtable`
 --
 ALTER TABLE `tvtable`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15781;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15782;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
